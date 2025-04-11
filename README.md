@@ -1,6 +1,6 @@
 ## File Structure
 Contains project data folders:
-`
+```
 |-- Literature_Review/
 |   |-- Computer_Science_Literature_Review.docx
 |-- Quantitative_Analysis/
@@ -17,7 +17,7 @@ Contains project data folders:
 |-- Additional_Materials/
     |-- Data_Models.xlsx
     |-- Key_Commands.txt
-`
+```
 ## Contributing
 When contributing ensure that files are added to their relevant folder to upload structure.
 If working on development, do so on a dev brach before merging to the main branch.
